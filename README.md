@@ -23,11 +23,9 @@
 A dynamic multi-user web application built using:
 - **Flask + SQLite + Jinja2**
 - Features include **secure authentication** and **dynamic quiz generation**
-
-- ⚙️ **Core-XY 3D Printer**  
+### 🔸 **Core-XY 3D Printer**
   Built a working 3D printer using Arduino Mega, RAMPS 1.4 & Marlin firmware.
-
-- 🔊 **Sonic Levitation Device**  
+### 🔸 **Sonic Levitation Device**
   Acoustic levitator using 25 kHz transducers showcasing wave physics.
 
 ---
