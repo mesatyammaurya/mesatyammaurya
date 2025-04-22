@@ -17,28 +17,12 @@
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Projects
 
 ### 🔸 **Quiz Master App**
 A dynamic multi-user web application built using:
 - **Flask + SQLite + Jinja2**
 - Features include **secure authentication** and **dynamic quiz generation**
----
-
-## 🎓 College Engagements & Leadership
-
-- ✅ **Co-Convener**, *Team Finance – Hill’ffair*  
-  Handling sponsorships and financial operations.
-  
-- ✅ **Coordinator**, *Team Abraxas*  
-  Organizing workshops on telescopes, 3D printing & physics experiments.
-
-- ✅ **Coordinator**, *Physteo*  
-  Hosted multiple physics-themed events and national conferences.
-
----
-
-## 🛠️ Previous Projects
 
 - ⚙️ **Core-XY 3D Printer**  
   Built a working 3D printer using Arduino Mega, RAMPS 1.4 & Marlin firmware.
@@ -46,10 +30,8 @@ A dynamic multi-user web application built using:
 - 🔊 **Sonic Levitation Device**  
   Acoustic levitator using 25 kHz transducers showcasing wave physics.
 
-- ⚡ **Ionic Wind Generator & Thrusters**  
-  Plasma-based propulsion experiments using ion wind technology.
-
 ---
+
 
 ## 🏆 Achievements & Certifications
 
