@@ -4,7 +4,7 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mesatyammaurya&show_icons=true&count_private=true&theme=radical)
 
 
 ## 🔧 Tech Interests & Expertise
