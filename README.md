@@ -4,6 +4,9 @@
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&theme=radical)
+
+
 ## 🔧 Tech Interests & Expertise
 
 💡 A dedicated learner and developer, I'm deeply invested in:
