@@ -3,7 +3,7 @@
 🎓 I'm a **third-year Engineering Physics student at NIT Hamirpur**, also pursuing a **BS in Data Science & Applications from IIT Madras**. Passionate about blending physics, programming, and engineering, I thrive on solving complex problems through analytical thinking and innovation.
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mesatyammaurya&layout=compact&count_private=true) 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mesatyammaurya&layout=compact&count_private=true) -->
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mesatyammaurya&show_icons=true&count_private=true&theme=radical) -->
 
